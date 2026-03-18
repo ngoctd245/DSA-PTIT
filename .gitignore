@@ -1,0 +1,11 @@
+# Bỏ qua file thực thi (file chạy)
+*.exe
+*.out
+*.app
+
+# Bỏ qua các file rác của trình biên dịch/IDE (Dev-C++, VS Code, CodeBlocks)
+*.o
+*.obj
+.vscode/
+.layout
+*.win
